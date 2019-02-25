@@ -1,6 +1,6 @@
   p{
         color: red;
-        font-style: 
+        font-style:
       }
       h2 {
         color: red;
@@ -12,6 +12,6 @@
       h4{
       	color: blue;
       }
-      #j{
+      #{
       	color: green;
       }
